@@ -1,0 +1,4 @@
+microservice-template-core==2.2.27
+mysql-connector==2.1.7
+flask_ldap3_login==0.9.16
+jira==2.0.1.0rc1
